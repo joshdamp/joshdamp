@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm studying **BS Computer Science** at Mapua Malayan Colleges Laguna
-- ⚡ Fun fact **I love to play video games!**
+- 🎮 Fun fact **I love to play video games!**
 - 📫 How to reach me: **joshuadamps@gmail.com**
 
 ## ⬆ What I'm up to
