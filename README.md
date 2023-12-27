@@ -27,40 +27,30 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 
 ## 👀 Git Commands Cheat Sheet
-### 1. git init
-- **When to use:** Initialize a new Git repository in a directory.
-- **Example:** 
-  ```bash
-  git init
-  ```
 
-### 2. git clone
-- **When to use:** Clone a repository into a newly created directory.
-- **Example:** 
-  ```bash
-  git clone <repository_url>
-  ```
+### 1. git clone
+**Usage:** Copies a Git repository.  
+**Parameters:** git clone <repository-url>  
+**Example**: git clone https://github.com/user/repo.git
 
-### 3. git add
-- **When to use:** Add file changes to the staging area.
-- **Example:** 
-  ```bash
-  git add <file_name>
-  ```
-  
-### 4. git commit
-- **When to use:** Record changes to the repository with a descriptive message.
-- **Example:** 
-  ```bash
-  git commit -m "Add new feature"
-  ```
+### 2. git add
+**Usage:** Stages changes for the next commit.  
+**Parameters:** git add <file>  
+**Example:** git add README.md
 
-### 5. git push
-- **When to use:** Push local changes to a remote repository.
-- **Example:** 
-  ```bash
-  git push origin main
-  ```
+### 3. git commit
+**Usage**: Saves changes to the local repository.  
+**Parameters:** git commit -m "<message>"  
+**Example:** git commit -m "First commit"
 
+### 4. git push
+**Usage:** Sends changes to a remote repository.  
+**Parameters:** git push <remote> <branch>  
+**Example:** git push origin master
+
+### 5. git pull
+**Usage:** Updates local repository to match a remote one.  
+**Parameters:** git pull <remote>  
+**Example:** git pull origin
 
 	
