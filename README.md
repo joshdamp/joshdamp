@@ -28,37 +28,39 @@
 
 ## 👀 Git Commands Cheat Sheet
 
-### 1. git clone
+# Git Commands
+
+## 1. git clone
 **Usage:** Copies a Git repository.  
-**Parameters:** git clone <repository-url>  
-**Example**: git clone https://github.com/user/repo.git
+**Parameters:** `git clone <repository-url>`  
+**Example**: `git clone https://github.com/user/repo.git`
 
-### 2. git add
+## 2. git add
 **Usage:** Stages changes for the next commit.  
-**Parameters:** git add <file>  
-**Example:** git add README.md
+**Parameters:** `git add <file>`  
+**Example:** `git add README.md`
 
-### 3. git commit
+## 3. git commit
 **Usage**: Saves changes to the local repository.  
-**Parameters:** git commit -m "<message>"  
-**Example:** git commit -m "First commit"
+**Parameters:** `git commit -m "<message>"`  
+**Example:** `git commit -m "First commit"`
 
-### 4. git push
+## 4. git push
 **Usage:** Sends changes to a remote repository.  
-**Parameters:** git push <remote> <branch>  
-**Example:** git push origin master
+**Parameters:** `git push <remote> <branch>`  
+**Example:** `git push origin master`
 
-### 5. git pull
+## 5. git pull
 **Usage:** Updates local repository to match a remote one.  
-**Parameters:** git pull <remote>  
-**Example:** git pull origin
+**Parameters:** `git pull <remote>`  
+**Example:** `git pull origin`
 
-### 6. git status
+## 6. git status
 **Usage:** Shows the current state of the working directory and staging area.  
-**Parameters:** git status  
-**Example:** git status	
+**Parameters:** `git status`  
+**Example:** `git status`	
 
-### 7. git merge
+## 7. git merge
 **Usage:** Combines changes from different branches.  
-**Parameters:** git merge <branch>  
-**Example:** git merge feature-branch  
+**Parameters:** `git merge <branch>`  
+**Example:** `git merge feature-branch`
