@@ -53,4 +53,12 @@
 **Parameters:** git pull <remote>  
 **Example:** git pull origin
 
-	
+### 6. git status
+**Usage:** Shows the current state of the working directory and staging area.
+**Parameters:** git status
+**Example:** git status	
+
+### 7. git merge
+**Usage:** Combines changes from different branches.
+**Parameters:** git merge <branch>
+**Example:** git merge feature-branch
