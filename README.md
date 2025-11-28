@@ -16,7 +16,8 @@ Currently working on my thesis:
 **Languages:** Python • JavaScript • TypeScript • C# • SQL  
 **ML / AI:** TensorFlow • Scikit-Learn • OpenCV • NumPy  
 **Frontend:** React • React Native • HTML • CSS  
-**Backend:** FastAPI • REST APIs  
+**Backend:** NodeJs • FastAPI • REST APIs  
+**Databases:** MySQL, PostgreSQL, NoSQL
 **Tools:** Git • GCP
 
 ---
@@ -25,10 +26,6 @@ Currently working on my thesis:
 **Freelance Software Engineer (2024–Present)**  
 ✔ Delivered ML models + automation via GCP for 20+ clients  
 ✔ Built mobile, web, and game applications  
-
-**Co-Founder @ JojiTech (2024–Present)**  
-✔ Developed tools for students and small businesses  
-✔ Created applications to automate operations and boost efficiency  
 
 ---
 
