@@ -38,7 +38,6 @@ Built a tourism & MSME-focused app in 24 hours — innovation meets execution.
 ## 📫 Let's Connect
 📧 **joshuadamps@gmail.com**  
 🔗 **linkedin.com/in/joshua-dampil**  
-🐙 **github.com/josh-your-handle** (replace this)
 
 ---
 
